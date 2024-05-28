@@ -110,7 +110,7 @@ const Home = () => {
         </p>
         <div>
           <button className="text-white bg-[#0072ff] rounded-3xl border-2 px-6 py-3 my-2 flex items-center hover:bg-white hover:border-[#0072ff] hover:text-[#0072ff] duration-300 ">
-           <a href="Java-CV.pdf" download="Java-CV.pdf">Download CV </a>
+           <a href="JIVIN_JAVA-CV.pdf" download="JIVIN_JAVA-CV.pdf">Download CV </a>
           </button>
         </div>
       </div>
